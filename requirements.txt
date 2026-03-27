@@ -1,0 +1,10 @@
+flask
+flask-cors
+ccxt
+flask-session
+cachelib
+pandas
+plotly
+tqdm
+bidask
+python-dotenv
